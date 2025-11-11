@@ -14,7 +14,7 @@ Welcome to my data analytics portfolio. Here, I showcase projects in descriptive
 Python | R | SQL | Power BI | Tableau | Excel | OR-Tools | Pyomo
 
 ## Portfolio Structure
-1. [Descriptive Analytics](https://github.com/jfjutras07/Descriptive-Analytics) – Dashboards and visualizations highlighting trends and insights across multiple sectors.
+1. [Descriptive Analytics](https://github.com/jfjutras07/Descriptive-Analytics) – Statistical analyses, dashboards, and visualizations showcasing trends and insights across multiple sectors.
 2. [Predictive Analytics](https://github.com/jfjutras07/Predictive-Analytics) – Machine learning projects, including supervised and unsupervised models.
 3. [Prescriptive Analytics](https://github.com/jfjutras07/Prescriptive-Analytics) – Optimization, simulation, and decision-support projects.
 
