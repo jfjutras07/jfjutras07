@@ -11,7 +11,7 @@ Welcome to my data analytics portfolio. Here, I showcase projects in descriptive
 - Continuous learning and skill development in analytics and machine learning
 
 ## Technical Stack
-Python | R | SQL | Power BI | Tableau | Excel | OR-Tools | Pyomo
+Python | R | SQL | Power BI | Tableau | Excel | OR-Tools
 
 ## Portfolio Structure
 1. [Descriptive Analytics](https://github.com/jfjutras07/Descriptive-Analytics) – Statistical analyses, dashboards, and visualizations showcasing trends and insights across multiple sectors.
