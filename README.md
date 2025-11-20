@@ -2,7 +2,7 @@
 
 **Analytics applied across multiple domains to support data-driven decision making**
 
-Welcome to my data analytics portfolio. Here, I showcase projects in descriptive, predictive, and prescriptive analytics across various domains, including municipal governance, healthcare, finance, and international development.
+Welcome to my data analytics portfolio. Here, I showcase projects in descriptive, predictive, and prescriptive analytics across various domains, including municipal governance, healthcare, and international development.
 
 ## Focus Areas
 - Data-driven decision making in public, private, and social sectors
