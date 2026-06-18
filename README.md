@@ -1,8 +1,8 @@
-# Jean-François Jutras | Data Analytics & Strategy
+# Jean-François Jutras | Decision Analytics & Strategy
 
 **Analytics applied across multiple domains to support data-driven decision making**
 
-Welcome to my data analytics portfolio. This portfolio presents a selection of projects in descriptive, predictive, and prescriptive analytics, applied across domains such as municipal governance, public health, and international development.
+Welcome to my decision analytics portfolio. This portfolio presents a selection of projects in descriptive, predictive, and prescriptive analytics, applied across domains such as municipal governance, public health, and international development.
 
 ## Focus Areas
 - Data-driven decision making in public, private, and social sectors
