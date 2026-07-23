@@ -1,4 +1,4 @@
-# Jean-François Jutras | Decision Analytics & Strategy
+# Jean-François Jutras | Decision Intelligence and Analytics
 
 **Analytics applied across multiple domains to support data-driven decision making**
 
