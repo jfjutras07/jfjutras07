@@ -7,11 +7,11 @@ Welcome to my decision analytics portfolio. My work focuses on transforming frag
 This portfolio presents a selection of projects in descriptive, predictive, and prescriptive analytics, applied across domains such as municipal governance, public health, and international development.
 
 ## Focus Areas
-- Decision Intelligence & Decision Support Systems
-- Program Evaluation & Organizational Learning
-- Portfolio Optimization & Resource Allocation
-- Risk Analytics & Operational Resilience
-- Applied Machine Learning & Agentic AI
+- Decision Intelligence and Decision Support Systems
+- Program Evaluation and Organizational Learning
+- Portfolio Optimization and Resource Allocation
+- Risk Analytics and Operational Resilience
+- Applied Machine Learning and Agentic AI
 - International Development Analytics
 
 ## Technical Stack
