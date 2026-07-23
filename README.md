@@ -1,14 +1,18 @@
 # Jean-François Jutras | Decision Intelligence and Analytics
 
-**Analytics applied across multiple domains to support data-driven decision making**
+**Building evidence-informed decision systems for complex organizations through analytics, optimization, evaluation, and AI.**
 
-Welcome to my decision analytics portfolio. This portfolio presents a selection of projects in descriptive, predictive, and prescriptive analytics, applied across domains such as municipal governance, public health, and international development.
+Welcome to my decision analytics portfolio. My work focuses on transforming fragmented organizational information into structured, explainable, and actionable decision systems.
+
+This portfolio presents a selection of projects in descriptive, predictive, and prescriptive analytics, applied across domains such as municipal governance, public health, and international development.
 
 ## Focus Areas
-- Data-driven decision making in public, private, and social sectors
-- Performance optimization and operational efficiency
-- Risk analysis and prescriptive solutions
-- Continuous learning and skill development in analytics and machine learning
+- Decision Intelligence & Decision Support Systems
+- Program Evaluation & Organizational Learning
+- Portfolio Optimization & Resource Allocation
+- Risk Analytics & Operational Resilience
+- Applied Machine Learning & Agentic AI
+- International Development Analytics
 
 ## Technical Stack
 Python | R | SQL | Power BI | Tableau | Excel | OR-Tools
