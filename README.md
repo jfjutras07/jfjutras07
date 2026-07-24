@@ -24,5 +24,5 @@ Python | R | SQL | Power BI | Tableau | Excel | OR-Tools
 4. [Real-World Decision Support Systems for International Development](https://github.com/jfjutras07/Real-World-Decision-Support-for-International-Development) - Integrated projects combining planning, coordination tools, and operational decision support systems.
 5. [Decision Science Research](https://github.com/jfjutras07/Decision-Science-Research) – A collection of research projects combining theoretical development, tools, and analytical frameworks to advance decision-making in complex and resource-constrained environments.
 
-## Learning & Continuous Improvement
+## Learning and Continuous Improvement
 This portfolio reflects both completed projects and ongoing learning. Some projects are part of my continuous improvement journey, helping me refine my skills in machine learning, prescriptive analytics, and data-driven decision making across diverse domains.
