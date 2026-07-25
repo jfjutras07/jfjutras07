@@ -4,7 +4,7 @@
 
 Welcome to my decision analytics portfolio. My work focuses on transforming fragmented organizational information into structured, explainable, and actionable decision systems.
 
-This portfolio presents a selection of projects in descriptive, predictive, and prescriptive analytics, applied across domains such as municipal governance, public health, and international development.
+This portfolio presents a selection of projects in descriptive, predictive, and prescriptive analytics, developed using both real-world and publicly available datasets across domains such as municipal governance, public health, and international development.
 
 ## Focus Areas
 - Decision Intelligence and Decision Support Systems
