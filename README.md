@@ -11,7 +11,7 @@ This portfolio presents a selection of projects in descriptive, predictive, and 
 - Program Evaluation and Organizational Learning
 - Portfolio Optimization and Resource Allocation
 - Risk Analytics and Operational Resilience
-- Applied Machine Learning and Agentic AI
+- Applied Machine Learning
 - International Development Analytics
 
 ## Technical Stack
