@@ -1,6 +1,6 @@
 # Jean-François Jutras | Decision Intelligence and Analytics
 
-**Building evidence-informed decision systems for complex organizations through analytics, optimization, evaluation, and AI.**
+**Building evidence-informed solutions for complex organizations through analytics, optimization, evaluation, and AI.**
 
 Welcome to my decision analytics portfolio. My work focuses on transforming fragmented organizational information into structured, explainable, and actionable decision systems.
 
