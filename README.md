@@ -21,7 +21,7 @@ Python | R | SQL | Power BI | Tableau | Excel | OR-Tools
 1. [Descriptive Analytics](https://github.com/jfjutras07/Descriptive-Analytics) – Statistical analyses, dashboards, and visualizations showcasing trends and insights across multiple sectors.
 2. [Predictive Analytics](https://github.com/jfjutras07/Predictive-Analytics) – Machine learning projects, including supervised and unsupervised models.
 3. [Prescriptive Analytics](https://github.com/jfjutras07/Prescriptive-Analytics) – Optimization, simulation, and decision-support projects.
-4. [Applied International Development Projects](https://github.com/jfjutras07/Applied-International-Development-Projects) - Integrated solutions combining planning, coordination tools, training and operational decision support systems.
+4. [Applied International Development Practice](https://github.com/jfjutras07/Applied-International-Development-Practice) - Integrated solutions combining planning, coordination tools, training and operational decision support systems.
 5. [Decision Science Research](https://github.com/jfjutras07/Decision-Science-Research) – A collection of research projects combining theoretical development, tools, and analytical frameworks to advance decision-making in complex and resource-constrained environments.
 6. [Decision Intelligence Analytics Library](https://github.com/jfjutras07/jfj-utils) – Developing reusable analytical components and decision-support utilities through the jfj-utils Python library.
 
